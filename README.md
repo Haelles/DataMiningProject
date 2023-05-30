@@ -1,6 +1,7 @@
 # DataMiningProject
 Project for DATA620007, Fudan University
 * Homework 1 - 6, including Linear Regression, Logistic Regression, Naive Bayes, Decision Trees, AdaBoost, Random Forest, PCA, K means, etc. 
+
 The main content is as follows.
 * Developed logistic regression model for default probability prediction using user credit data, employed forward selection algorithm with BIC criterion for feature selection, achieved 0.83 AUC on the test set
 * Conducted analysis on the popularity for Olympic videos, implemented Decision Trees, AdaBoost and Random Forest for categorizing the degree of discussion, performed parameter tuning with five-fold cross-validation on the training set, achieved 0.93 AUC on the test set
