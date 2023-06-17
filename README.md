@@ -7,4 +7,5 @@ The main content is as follows.
 * Conducted analysis on the popularity for Olympic videos, implemented Decision Trees, AdaBoost and Random Forest for categorizing the degree of discussion, performed parameter tuning with five-fold cross-validation on the training set, achieved 0.93 AUC on the test set
 * Analyzed player market values in the big five European leagues, utilized PCA model and determined the number of principal components using scree plots, calculated factor loadings to interpret the importance of original variables, applied K-means clustering based on principal component scores and determined the optimal number of clusters using the elbow method
 
-Final project(TODO)
+Final project
+* Conducted data analysis for wine quality classification, including normality testing and kernel density estimation, implemented GBDT, XGBoost+LR models, achieved AUC of 0.88 on the test set.
